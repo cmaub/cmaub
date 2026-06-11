@@ -1,16 +1,23 @@
-## Hi there 👋
+## Bienvenue sur mon GitHub
 
-<!--
-**cmaub/cmaub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante à l’École 42, spécialisée en systèmes Linux, cybersécurité et développement bas niveau.
 
-Here are some ideas to get you started:
+Je m’intéresse particulièrement à l’exploitation de vulnérabilités, au reverse engineering et à la compréhension des mécanismes internes des systèmes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projets principaux
+
+* Snow Crash — sécurité Linux & CTF
+* Transcendence — architecture web sécurisée (Docker, auth, microservices)
+* Minishell — Recréation d'un shell Unix (C)
+* Webserv — Serveur HTTP/1.1 non-bloquant (C++)
+
+---
+
+## Contact
+
+* GitHub : github.com/cmaub
+* LinkedIn : linkedin.com/in/cassandre-maubert
+* HackTheBox : profil disponible
+* Root-Me : profil disponible
